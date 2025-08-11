@@ -1,5 +1,8 @@
 Demonstração de Programação Assíncrona em C#
 
+<img width="789" height="311" alt="image" src="https://github.com/user-attachments/assets/7e141958-a02a-4a42-9c63-75cccf688000" />
+
+
 Este projeto é uma aplicação de desktop simples, desenvolvida com Windows Forms, para demonstrar de forma prática e visual a programação assíncrona em C# usando o padrão async/await. O objetivo é mostrar como a interface do usuário (UI) permanece responsiva enquanto várias tarefas de longa duração são executadas em segundo plano.
 
 
