@@ -1,7 +1,10 @@
 Demonstração de Programação Assíncrona em C#
+
 Este projeto é uma aplicação de desktop simples, desenvolvida com Windows Forms, para demonstrar de forma prática e visual a programação assíncrona em C# usando o padrão async/await. O objetivo é mostrar como a interface do usuário (UI) permanece responsiva enquanto várias tarefas de longa duração são executadas em segundo plano.
 
+
 Como Funciona
+
 A aplicação simula quatro tarefas que levam diferentes períodos de tempo para serem concluídas (1, 8, 4 e 2 segundos). Ao clicar no botão "Iniciar", todas as tarefas são disparadas simultaneamente. O segredo está em como o código aguarda os resultados:
 
 O método Task.WhenAny é usado em um loop while para identificar a primeira tarefa que termina.
@@ -19,8 +22,11 @@ Framework: .NET (utilizando o .NET Framework para Windows Forms)
 
 Conceitos: Programação Assíncrona, async/await, Task.Delay, Task.WhenAny, Windows Forms.
 
+
 English
+
 Asynchronous Programming Demo in C#
+
 This is a simple Windows Forms desktop application designed to provide a practical and visual demonstration of asynchronous programming in C# using the async/await pattern. The project aims to show how a user interface (UI) can remain responsive while multiple long-running tasks are executed in the background.
 
 How It Works
@@ -41,8 +47,11 @@ Framework: .NET (using .NET Framework for Windows Forms)
 
 Concepts: Asynchronous Programming, async/await, Task.Delay, Task.WhenAny, Windows Forms.
 
+
 Español
+
 Demostración de Programación Asíncrona en C#
+
 Este es una aplicación de escritorio simple, desarrollada con Windows Forms, para demostrar de manera práctica y visual la programación asíncrona en C# utilizando el patrón async/await. El objetivo es mostrar cómo la interfaz de usuario (UI) se mantiene receptiva mientras varias tareas de larga duración se ejecutan en segundo plano.
 
 Cómo Funciona
