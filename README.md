@@ -26,6 +26,7 @@ Framework: .NET (utilizando o .NET Framework para Windows Forms)
 Conceitos: Programação Assíncrona, async/await, Task.Delay, Task.WhenAny, Windows Forms.
 
 ==================================================
+
 English
 
 Asynchronous Programming Demo in C#
@@ -51,6 +52,7 @@ Framework: .NET (using .NET Framework for Windows Forms)
 Concepts: Asynchronous Programming, async/await, Task.Delay, Task.WhenAny, Windows Forms.
 
 ==================================================
+
 Español
 
 Demostración de Programación Asíncrona en C#
